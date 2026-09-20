@@ -3,6 +3,8 @@ Han instruction dataset: Thai instruction dataset
 
 🪿 Han (ห่าน or goose) Instruction Dataset is a Thai instruction dataset by PyThaiNLP. This dataset collects all Thai instruct datasets that were made by humans and our old model. The dataset can be used to train Instruction Following models like ChatGPT or others.
 
+Hugging Face dataset: [https://huggingface.co/datasets/pythainlp/han-instruction-dataset](https://huggingface.co/datasets/pythainlp/han-instruction-dataset)
+
 GitHub: [https://github.com/wannaphong/han-instruction-dataset](https://github.com/wannaphong/han-instruction-dataset)
 
 Data sources:
